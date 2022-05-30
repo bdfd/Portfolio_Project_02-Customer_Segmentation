@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-02-23 11:32:47
- * @LastEditTime: 2022-05-30 18:03:24
+ * @LastEditTime: 2022-05-30 18:14:06
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \Section6.Project04_Customer_Segmentation\README.md
@@ -50,7 +50,7 @@ Common Tag: data-science, python, data-visualization, sql, data-analytics, excel
 > understand the target for marketing activities.
 
 **Reference:**  
-Dateset:<a href="https://raw.githubusercontent.com/bdfd/Project04_Avacado_Price_Analysis-Kaggle/main/dataset/Avocado.csv">Dataset.csv</a>  
+Dateset:<a href="https://raw.githubusercontent.com/bdfd/Section6.Project04_Customer_Segmentation/main/dataset/Mall_Customers.csv">Dataset.csv</a>  
 Demo:<a href="https://github.com/bdfd/Section6.Project04_Customer_Segmentation/blob/main/Shopping_Customer_Segmentation.ipynb">Jupyter Notebook/Colab Link</a>
 
 <!-- Demo:<a href="Youtube Link">Demo Website Link</a> -->
