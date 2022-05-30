@@ -1,20 +1,20 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-02-23 11:32:47
- * @LastEditTime: 2022-02-23 12:26:35
+ * @LastEditTime: 2022-05-30 16:59:34
  * @LastEditors: BDFD
  * @Description:
- * @FilePath: \3.3-DS_Project_Template\README.md
+ * @FilePath: \Section6.Project04_\README.md
 -->
 
-# 3.3-DS_Project_Template
+# Customer Segmentation and Clustering
 
 Descritpion Template
 Person Side Project Portfolio. Also included a few resources on side that I found helpful.
 
 Common Tag: data-science, python, data-visualization, sql, data-analytics, excel
 
-# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>$(Project_Name{Github})[![View My Profile]
+# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>Customer Segmentation and Clustering
 
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
 ![ViewCount](<https://views.whatilearened.today/views/github/$(github_user)/$(repo_address).svg?cache=remove>)
@@ -49,6 +49,7 @@ Common Tag: data-science, python, data-visualization, sql, data-analytics, excel
 **Reference:**  
 Dateset:<a href="https://raw.githubusercontent.com/bdfd/Project04_Avacado_Price_Analysis-Kaggle/main/dataset/Avocado.csv">Dataset.csv</a>  
 Demo:<a href="https://github.com/bdfd/Project_04_Done_Avacado_Price/blob/main/Avocado_Price_Sale_Analysis.ipynb">Jupyter Notebook/Colab Link</a>
+
 <!-- Demo:<a href="Youtube Link">Demo Website Link</a> -->
 <!-- Reference:
 - <a href="https://www.kaggle.com/datasets/smokingkrils/avacado-price-prediction?select=Avocado.csv">Orginal Data Source Link</a>
