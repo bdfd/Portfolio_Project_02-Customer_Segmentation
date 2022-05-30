@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-02-23 11:32:47
- * @LastEditTime: 2022-05-30 17:57:15
+ * @LastEditTime: 2022-05-30 18:03:24
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \Section6.Project04_Customer_Segmentation\README.md
@@ -30,11 +30,9 @@ Common Tag: data-science, python, data-visualization, sql, data-analytics, excel
 
 **Tools:** Jupyter / JupyterLab, GitHub
 
-**Algorithm:**
+**Algorithm:** K-Means
 
 **Purpose:** Data Cleaning, Apply Algorithm
-
-**Algorithm:**
 
 **Libraries:** Pandas, NumPy
 
