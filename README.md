@@ -1,10 +1,10 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-02-23 11:32:47
- * @LastEditTime: 2022-05-30 17:55:03
+ * @LastEditTime: 2022-05-30 17:57:15
  * @LastEditors: BDFD
  * @Description:
- * @FilePath: \undefinedf:\Github Project\bdfd\Section6.Project04_\README.md
+ * @FilePath: \Section6.Project04_Customer_Segmentation\README.md
 -->
 
 # Customer Segmentation and Clustering
@@ -41,13 +41,13 @@ Common Tag: data-science, python, data-visualization, sql, data-analytics, excel
 **Projects:** Customer Segmentation and Clustering
 
 > **Problem statement**  
-> Understsand the Target Customers for the marketing team to plan a strategy.
-> You Boss wants you to identify the most important shopping groups based on
-> income,age, and the mall shopping score.
-> He wants the ideal number of groups with a label for each.
+> Understsand the Target Customers for the marketing team to plan a strategy.  
+> You Boss wants you to identify the most important shopping groups based on  
+> income,age, and the mall shopping score.  
+> He wants the ideal number of groups with a label for each.  
 > **Objective**
-> Divide you mall target market into approachable groups.
-> Create subsets of a market based on demographics behaviral criteria to better
+> Divide you mall target market into approachable groups.  
+> Create subsets of a market based on demographics behaviral criteria to better  
 > understand the target for marketing activities.
 
 **Reference:**  
