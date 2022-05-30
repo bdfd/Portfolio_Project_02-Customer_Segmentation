@@ -44,7 +44,8 @@ Common Tag: data-science, python, data-visualization, sql, data-analytics, excel
 > Understsand the Target Customers for the marketing team to plan a strategy.  
 > You Boss wants you to identify the most important shopping groups based on  
 > income,age, and the mall shopping score.  
-> He wants the ideal number of groups with a label for each.  
+> He wants the ideal number of groups with a label for each.
+>
 > **Objective**
 > Divide you mall target market into approachable groups.  
 > Create subsets of a market based on demographics behaviral criteria to better  
