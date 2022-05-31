@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-02-23 11:32:47
- * @LastEditTime: 2022-05-30 18:14:06
+ * @LastEditTime: 2022-05-31 10:34:00
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \Section6.Project04_Customer_Segmentation\README.md
@@ -55,7 +55,7 @@ Demo:<a href="https://github.com/bdfd/Section6.Project04_Customer_Segmentation/b
 
 <!-- Demo:<a href="Youtube Link">Demo Website Link</a> -->
 <!-- Reference:
-- <a href="https://www.kaggle.com/datasets/smokingkrils/avacado-price-prediction?select=Avocado.csv">Orginal Data Source Link</a>
+- <a href="https://github.com/Gaelim/Mall-Customer-Segmentation/blob/main/Mall_Customers.csv">Orginal Data Source Link</a>
 - <a href="https://www.youtube.com/watch?v=iwUli5gIcU0">Orginal Video Source Link</a> -->
 <br>
 
