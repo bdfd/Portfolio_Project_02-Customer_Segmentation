@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-02-23 11:32:47
- * @LastEditTime: 2022-05-31 10:34:00
+ * @LastEditTime: 2022-06-08 15:55:51
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \Section6.Project04_Customer_Segmentation\README.md
@@ -51,7 +51,9 @@ Common Tag: data-science, python, data-visualization, sql, data-analytics, excel
 
 **Reference:**  
 Dateset:<a href="https://raw.githubusercontent.com/bdfd/Section6.Project04_Customer_Segmentation/main/dataset/Mall_Customers.csv">Dataset.csv</a>  
+Processed DatasetL<a href="https://github.com/bdfd/Section6.Project04_Customer_Segmentation/blob/main/display%20demo/Clustering.csv">Processed Dataset</a>
 Demo:<a href="https://github.com/bdfd/Section6.Project04_Customer_Segmentation/blob/main/Shopping_Customer_Segmentation.ipynb">Jupyter Notebook/Colab Link</a>
+Visualization:<a href="https://github.com/bdfd/Section6.Project04_Customer_Segmentation/blob/main/display%20demo/Clustering_Bivariate.png">Cluster Bivariate</a>
 
 <!-- Demo:<a href="Youtube Link">Demo Website Link</a> -->
 <!-- Reference:
