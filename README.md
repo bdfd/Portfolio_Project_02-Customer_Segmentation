@@ -7,12 +7,6 @@
  * @FilePath: \Section6.Project04_Customer_Segmentation\README.md
 -->
 
-# Customer Segmentation and Clustering
-
-Descritpion Template
-Person Side Project Portfolio. Also included a few resources on side that I found helpful.
-
-Common Tag: data-science, python, data-visualization, sql, data-analytics, excel
 
 # <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>Customer Segmentation and Clustering
 
