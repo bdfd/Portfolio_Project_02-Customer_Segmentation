@@ -14,9 +14,8 @@
 ![ViewCount](https://views.whatilearened.today/views/github/bdfd/Section6.Project04_Customer_Segmentation.svg?cache=remove)
 ![GitHub top language](https://img.shields.io/github/languages/top/bdfd/Section6.Project04_Customer_Segmentation?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/bdfd/Section6.Project04_Customer_Segmentation?style=flat)
-<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
-
-<!-- <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" /> -->
+<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
+<!-- <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" /> -->
 
 ## Applied Learning Project
 
