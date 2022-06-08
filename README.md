@@ -51,7 +51,7 @@ Common Tag: data-science, python, data-visualization, sql, data-analytics, excel
 
 **Reference:**  
 Dateset:<a href="https://raw.githubusercontent.com/bdfd/Section6.Project04_Customer_Segmentation/main/dataset/Mall_Customers.csv">Dataset.csv</a>  
-Processed DatasetL<a href="https://github.com/bdfd/Section6.Project04_Customer_Segmentation/blob/main/display%20demo/Clustering.csv">Processed Dataset</a>  
+Processed DatasetL<a href="https://raw.githubusercontent.com/bdfd/Section6.Project04_Customer_Segmentation/main/display%20demo/Clustering.csv">Processed Dataset</a>  
 Demo:<a href="https://github.com/bdfd/Section6.Project04_Customer_Segmentation/blob/main/Shopping_Customer_Segmentation.ipynb">Jupyter Notebook/Colab Link</a>  
 Visualization:<a href="https://github.com/bdfd/Section6.Project04_Customer_Segmentation/blob/main/display%20demo/Clustering_Bivariate.png">Cluster Bivariate</a>
 
