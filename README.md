@@ -1,13 +1,3 @@
-<!--
- * @Author: BDFD
- * @Date: 2022-02-23 11:32:47
- * @LastEditTime: 2022-06-08 15:57:43
- * @LastEditors: BDFD
- * @Description:
- * @FilePath: \Section6.Project04_Customer_Segmentation\README.md
--->
-
-
 # <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>Customer Segmentation and Clustering
 
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
@@ -23,11 +13,13 @@
 
 **Tools:** Jupyter / JupyterLab, GitHub
 
-**Algorithm:** K-Means
+**Algorithm Category:** Classification
 
 **Purpose:** Data Cleaning, Apply Algorithm
 
-**Libraries:** Pandas, NumPy
+**Algorithm:** K-Means
+
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
 
 **Projects:** Customer Segmentation and Clustering
 
